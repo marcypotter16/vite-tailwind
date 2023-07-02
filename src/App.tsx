@@ -6,9 +6,9 @@ function App() {
 
   return (
     <>
-      <div className='bg-gray-700 text-white rounded shadow'>
+      <button className='bg-gray-700 text-white rounded shadow-md px-2 hover:bg-orange-600 hover:text-gray-700'>
         Hello
-      </div>
+      </button>
 
     </>
   )
